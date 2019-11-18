@@ -2,7 +2,7 @@
 
 This repository gives you a quick introduction to getting docker running with Node. It is intended for the Docker beginner.
 
-## Setup
+### Setup
 
 First, checkout this project locally and then follow these steps:
 
